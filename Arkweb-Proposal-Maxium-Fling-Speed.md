@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This proposal aims to establish a declarative mechanism `HTMLMetaElement.maxFlingSpeed ` to limit fling speed on websites with complex dom structure.   
+This proposal aims to establish a declarative mechanism via the HTML `meta` element to limit fling speed on websites with complex dom structure.   
 
 ## User-Facing Problem
 
