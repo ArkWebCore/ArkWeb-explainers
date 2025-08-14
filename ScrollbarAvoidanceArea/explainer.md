@@ -33,7 +33,6 @@ These properties would enable developers to set an offset for the scrollbar area
 ### Example:
 
 ```html
-// Use cases to illustrate the idea. As much as possible
 <!--index.html-->
 <!DOCTYPE html>
 <html>
