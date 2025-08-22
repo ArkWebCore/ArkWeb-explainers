@@ -1,4 +1,4 @@
-# Maxium fling speed
+# Maximum Fling Speed
 
 ## Authors:
 
@@ -15,7 +15,7 @@ Modern websites now feature increasingly complex DOM structures with rich functi
 
 ### Goals
 
-- This proposal introduces two new attributes, max-fling-speed-x and max-fling-speed-y, to the content field of the `<meta name="viewport">` tag. These attributes accept ​​positive integer values​​ (in pixels per second, px/s) to cap the maximum fling speed in horizontal (X-axis) and vertical (Y-axis) scrolling, respectively.
+- This proposal introduces two new attributes, `max-fling-speed-x` and `max-fling-speed-y`, to the content field of the `<meta name="viewport">` tag. These attributes accept ​​positive integer values​​ (in pixels per second, px/s) to cap the maximum fling speed in horizontal (X-axis) and vertical (Y-axis) scrolling, respectively.
 
 ## Proposed Approach
 

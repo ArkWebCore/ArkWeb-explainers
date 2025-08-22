@@ -1,4 +1,4 @@
-# [SpeculationRuelsAPI supports addtional headers]
+# [Speculation Rules with Additional Headers]
 
 ## Authors:
 
@@ -18,7 +18,7 @@
   - [Goals [or Motivating Use Cases, or Scenarios]](#goals-or-motivating-use-cases-or-scenarios)
   - [Non-goals](#non-goals)
 - [Proposed Approach](#proposed-approach)
-  - [Solving add addtional headers for the prerendering/preloading request for main document with this approach](#solving-add-addtional-headers-for-the-prerenderingpreloading-request-for-main-document-with-this-approach)
+  - [Solving add additional headers for the prerendering/preloading request for main document with this approach](#solving-add-additional-headers-for-the-prerenderingpreloading-request-for-main-document-with-this-approach)
 - [Accessibility, Privacy, and Security Considerations](#accessibility-privacy-and-security-considerations)
 - [References & acknowledgements](#references--acknowledgements)
 
@@ -37,7 +37,7 @@ This limitation prevents the use of the Speculation Rules API in specific scenar
 
 ### Goals [or Motivating Use Cases, or Scenarios]
 
-When prefetching or prerendering resources via the Speculation Rules API, set custom headers to be added to the main document request by configuring addition_headers.
+When prefetching or pre-rendering resources via the Speculation Rules API, set custom headers to be added to the main document request by configuring addition_headers.
 
 ### Non-goals
 
@@ -47,7 +47,7 @@ N/A
 
 The proposal is to add an 'additional_headers' field to the speculation rules API to allow developers to add custom headers (excluding sensitive headers) based on their actual business needs.
 
-### Solving add addtional headers for the prerendering/preloading request for main document with this approach
+### Solving add additional headers for the pre-rendering/preloading request for main document with this approach
 
 ```
 <script type="speculationrules">
