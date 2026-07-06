@@ -23,7 +23,7 @@ As shown in the figure below, the blue rectangle represents the content box.
 
 However, the scrollbar cannot use the same mechanism, resulting in an inconsistent user experience: the part labeled 3 in the picture.
 
-![Screenshots showing how the scrollbar overlaps the status bar in a smartphone viewport](./images/current.png)
+![Screenshots showing how the scrollbar overlaps the status bar in a smartphone viewport](./images/current.jpg)
 
 
  
@@ -68,7 +68,7 @@ Syntax:
 </html>
 ```
 
-![Screenshots showing how the scrollbar overlaps the status bar in a smartphone viewport](./images/after.png)
+![Screenshots showing how the scrollbar overlaps the status bar in a smartphone viewport](./images/after.jpg)
 
 ## Other activities to consider 
 
